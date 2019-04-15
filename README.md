@@ -1,2 +1,2 @@
 # MultiStepper
-Code to cycle 3 steppers. Modified from Arduino blink sketch 
+Code to cycle 3 steppers using both a transistor and a motor shield.
